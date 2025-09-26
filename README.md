@@ -28,5 +28,6 @@ git clone https://github.com/Divya6859/imdb-reviews-scraper.git
 cd imdb-reviews-scraper
 pip install -r requirements.txt
 python scripts/imdb_reviews_scraper.py
+```
 
 
