@@ -27,7 +27,7 @@ Clone this repository:
 git clone https://github.com/Divya6859/imdb-reviews-scraper.git
 cd imdb-reviews-scraper
 pip install -r requirements.txt
-python MovieReviewsScrap.py
+python scripts/MovieReviewsScrap.py
 ```
 
 
