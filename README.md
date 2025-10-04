@@ -20,14 +20,13 @@ This project scrapes textual reviews of movies from IMDb, extracts the review co
 - Cleaned and formatted textual data for storage
 - Created a reusable dataset for review exploration
 
-## How to Run
-Clone this repository:
 
+## How to Run Projects
+
+All projects are developed in **Google Colab** and can be run online easily.
+
+1. Clone this repository:  
 ```bash
 git clone https://github.com/Divya6859/imdb-reviews-scraper.git
-cd imdb-reviews-scraper
-pip install -r requirements.txt
-python scripts/MovieReviewsScrap.py
 ```
-
 
